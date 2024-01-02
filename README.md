@@ -1,2 +1,2 @@
-# country-gdp-co2
-Collaborated with team to clean and impute missing data and analyze relationship between countries’ GDP and CO2 emissions over time using R
+# The Relationship Between Country GDP and CO2 Emissions Is Changing Over Time
+Historically, increases in countries’ gross domestic products (GDPs) have been strongly positively correlated with increases in their carbon dioxide (CO2) emissions, which is concerning because CO2 emissions are a primary cause of global warming (Ritchie, 2021). We investigated if this relationship between countries’ GDPs and CO2 emissions has changed over time. Our results will improve understanding of the relationship between a country’s economic growth and its CO2 emissions.
